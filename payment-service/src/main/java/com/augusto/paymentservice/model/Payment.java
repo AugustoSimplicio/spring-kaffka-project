@@ -10,5 +10,5 @@ public class Payment implements Serializable {
     private Long id;
     private Long idUser;
     private Long idProduct;
-    private String cardNome;
+    private String cardNumber;
 }
