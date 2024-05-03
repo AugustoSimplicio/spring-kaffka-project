@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.augusto</groupId>
-    <artifactId>payment-service</artifactId>
+    <artifactId>payment-producer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>payment-service</name>
     <description>payment-service</description>
